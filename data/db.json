@@ -1,0 +1,34 @@
+{
+    "list":[
+      {
+        "id": 1001,
+        "name": "Hero-extreme",
+        "price": 99000,
+        "in_stock": true
+      },
+      {
+        "id": 1002,
+        "name": "Honda-shine",
+        "price": 98000,
+        "in_stock": true
+      },
+      {
+        "id": 1003,
+        "name": "Tvs-Sport",
+        "price": 85000,
+        "in_stock": true
+      },
+      {
+        "id": 1004,
+        "name": "yamaha-Hornet",
+        "price": 100000,
+        "in_stock": false
+      },
+      {
+        "id": 1005,
+        "name": "suzuki-Gixxer",
+        "price": 110000,
+        "in_stock": false
+      }
+    ]
+}
